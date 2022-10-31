@@ -1,0 +1,31 @@
+
+
+.section {
+    padding: 16px 32px ;
+}
+
+.section h1, .section h2 {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+}
+
+#Home {
+    background-color: #FFE3EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    position: relative;
+    min-height: 20vh;
+}
+
+
+#Home p {
+    justify-content: center;
+    background-color: #00C9AB;
+    color: black;
+    border-radius: 18px;
+    margin: 15px 15px;
+    padding: 5px;
+}

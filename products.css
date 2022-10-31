@@ -1,0 +1,22 @@
+#Products {
+    background-color: #F5A3B2;
+    list-style: none;
+    display: block;
+    flex-direction: column-reverse ;
+}
+.img {
+    border-radius: 18px;
+    width: 350px;
+    height: 200px;
+}
+.ul {
+    list-style: none;
+}
+
+.product {
+    list-style: none;
+}
+
+.product p{
+    width: 350px;
+}
